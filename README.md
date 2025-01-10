@@ -1,4 +1,4 @@
-# Integrating-Power-Apps-to-Power-BI
+# Integrating-Power-Apps-to-Power-BI Via Azure SQL
 
 ![PowerApps Integration](https://github.com/user-attachments/assets/74f117cd-a4a2-4b01-af87-d1fa5429a460)
 
