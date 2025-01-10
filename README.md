@@ -8,3 +8,10 @@ Integrating Power Apps with Power BI unlocks the full potential of data-driven a
 
 # Problem Statement
 A key challenge faced in the real life industry is maintenance of data that is not in stored in the company's database. Few times we have information/data that comes to the analyst via email which requires constant update if this is integrated to a report that is used by stakeholders. To keep this report up to date with the latest data can be a challenge if not properly maintained.
+
+# Methodology
+- Creating a table in Azure SQL database
+- Integrating the Azure SQL database with Power Apps
+- Creating a form users will use in power apps
+- Integrating the Azure SQL databse with Power BI
+- Carrying out analysis with the data provided to Power BI
