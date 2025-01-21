@@ -66,4 +66,10 @@ Confirm record appears in the Azure SQL database
 
 If you want to edit a record or delete, you can do that by clicking on the edit/delete button
 
-![Edit form](https://github.com/user-attachments/assets/157e75f8-a07c-460e-acb6-112a1798eec5)
+![Edit form](https://github.com/user-attachments/assets/157e75f8-a07c-460e-acb6-112a1798eec5
+
+Added more records and confirmed the records in Azure SQL database
+
+![Added another name to power apps](https://github.com/user-attachments/assets/a702a202-99d2-4939-ac82-ba7c511dfcb5)
+
+![Final Confirmation](https://github.com/user-attachments/assets/baf42060-e531-43a8-8fa5-301bf9cf7334)
