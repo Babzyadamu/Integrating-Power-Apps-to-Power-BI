@@ -15,3 +15,9 @@ A key challenge faced in the real life industry is maintenance of data that is n
 - Creating a form users will use in power apps
 - Integrating the Azure SQL databse with Power BI
 - Carrying out analysis with the data provided to Power BI
+
+# Creating the Required Table in Azure SQL
+
+The table was created used SQL as shown below:
+
+![Creating Table on Azure](https://github.com/user-attachments/assets/d0174c6f-2707-472e-b884-a817c9317440)
