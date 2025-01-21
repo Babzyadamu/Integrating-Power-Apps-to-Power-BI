@@ -36,3 +36,10 @@ Choose  SQL Authentication and login with your credentials
 
 ![Choose SQL Authentication and connect to cloud](https://github.com/user-attachments/assets/4b8e6e7e-732a-446c-b187-71b713e4c3b5)
 
+Choose the employee table created on Azure SQL database
+
+![Choose the Employee table created on azure sql](https://github.com/user-attachments/assets/2a7f6e57-dc96-4410-b7e3-8a76e9d226a2)
+
+Power Apps then uses the employee table chosen to create a form for you as seen below.
+
+![Power Apps Auto creates the form for you afetr connection](https://github.com/user-attachments/assets/1a066a00-80ad-456c-b15c-3bc18f944559)
