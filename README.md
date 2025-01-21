@@ -55,3 +55,11 @@ Click on the + in the form to add records
 ![Click on +](https://github.com/user-attachments/assets/63b636cd-d347-4ff5-b78c-05bcec854aaa)
 
 ![Fill with Sample Data](https://github.com/user-attachments/assets/6bef3d70-2b83-47ef-a092-be44726fd0da)
+
+The filled information appears after submission
+
+![Records appear after submission](https://github.com/user-attachments/assets/63a37ec9-36c4-42fb-889a-ad545c244a53)
+
+Confirm record appears in the Azure SQL database
+
+![confirm record in Azure SQL Database](https://github.com/user-attachments/assets/579bd307-47b8-41e7-b1b1-f874e3c61334)
