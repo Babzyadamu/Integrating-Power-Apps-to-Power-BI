@@ -63,3 +63,7 @@ The filled information appears after submission
 Confirm record appears in the Azure SQL database
 
 ![confirm record in Azure SQL Database](https://github.com/user-attachments/assets/579bd307-47b8-41e7-b1b1-f874e3c61334)
+
+If you want to edit a record or delete, you can do that by clicking on the edit/delete button
+
+![Edit form](https://github.com/user-attachments/assets/157e75f8-a07c-460e-acb6-112a1798eec5)
