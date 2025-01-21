@@ -40,6 +40,12 @@ Choose the employee table created on Azure SQL database
 
 ![Choose the Employee table created on azure sql](https://github.com/user-attachments/assets/2a7f6e57-dc96-4410-b7e3-8a76e9d226a2)
 
-Power Apps then uses the employee table chosen to create a form for you as seen below.
+# Creating a form users will use in power apps
+
+Power Apps then uses the employee table chosen to automatically create a form for you as seen below.
 
 ![Power Apps Auto creates the form for you afetr connection](https://github.com/user-attachments/assets/1a066a00-80ad-456c-b15c-3bc18f944559)
+
+Click on the play button to add records
+
+![Click Play to add Data](https://github.com/user-attachments/assets/2cf0cc07-1893-4c09-a18e-0ef4dbf7bb12)
