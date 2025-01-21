@@ -25,3 +25,14 @@ The table was created used SQL as shown below:
 The employee table created is an empty table with just the columns created. I ran a query to ensure the table was created successfully
 
 ![Testing the Azure Table](https://github.com/user-attachments/assets/898c34ac-06a9-4a53-95d8-c163780d8c69)
+
+#  Integrating the Azure SQL database with Power Apps
+
+Login to power apps and choose create. Then choose SQL server
+
+![Click create and choose SQL](https://github.com/user-attachments/assets/398448c5-2e7d-4ee8-b4de-48762a80c7b2)
+
+Choose  SQL Authentication and login with your credentials
+
+![Choose SQL Authentication and connect to cloud](https://github.com/user-attachments/assets/4b8e6e7e-732a-446c-b187-71b713e4c3b5)
+
