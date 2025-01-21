@@ -21,3 +21,7 @@ A key challenge faced in the real life industry is maintenance of data that is n
 The table was created used SQL as shown below:
 
 ![Creating Table on Azure](https://github.com/user-attachments/assets/d0174c6f-2707-472e-b884-a817c9317440)
+
+The employee table created is an empty table with just the columns created. I ran a query to ensure the table was created successfully
+
+![Testing the Azure Table](https://github.com/user-attachments/assets/898c34ac-06a9-4a53-95d8-c163780d8c69)
