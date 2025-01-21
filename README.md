@@ -73,3 +73,5 @@ Added more records and confirmed the records in Azure SQL database
 ![Added another name to power apps](https://github.com/user-attachments/assets/a702a202-99d2-4939-ac82-ba7c511dfcb5)
 
 ![Final Confirmation](https://github.com/user-attachments/assets/baf42060-e531-43a8-8fa5-301bf9cf7334)
+
+# Integrating the Azure SQL databse with Power BI
