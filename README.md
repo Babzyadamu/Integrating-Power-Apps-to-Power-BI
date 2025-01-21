@@ -48,4 +48,10 @@ Power Apps then uses the employee table chosen to automatically create a form fo
 
 Click on the play button to add records
 
-![Click Play to add Data](https://github.com/user-attachments/assets/2cf0cc07-1893-4c09-a18e-0ef4dbf7bb12)
+![Click play to add records](https://github.com/user-attachments/assets/f3498e06-fb83-431e-9a37-f301d81a224f)
+
+Click on the + in the form to add records
+
+![Click on +](https://github.com/user-attachments/assets/63b636cd-d347-4ff5-b78c-05bcec854aaa)
+
+![Fill with Sample Data](https://github.com/user-attachments/assets/6bef3d70-2b83-47ef-a092-be44726fd0da)
